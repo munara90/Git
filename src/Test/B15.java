@@ -1,6 +1,7 @@
 //this is code from github
 
-String str="Java";
+
+//String str="Java";
 
 
 
